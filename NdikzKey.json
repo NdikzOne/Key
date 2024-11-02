@@ -1,3 +1,7 @@
 {
-   "password": "NdikzOne"
+  "users": [
+    {
+      "password": "NdikzOne"
+    }
+  ]
 }
